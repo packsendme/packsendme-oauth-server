@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: packsendme-oauth-server
+  cloud:
+    config:
+      uri: http://localhost:9090
+      
